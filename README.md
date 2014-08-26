@@ -1,4 +1,9 @@
 middleman-hamlsasscoffeeblog
 ============================
 
-A middleman template scaffold for a blog using Haml, Sass/Scss, Coffeescript, and Bower
+A [Middleman](http://middlemanapp.com/) blog template scaffold  using [Haml](http://haml.info/), [Sass/Scss](http://sass-lang.com/), [Coffeescript](http://coffeescript.org/), and [Bower](http://bower.io/).
+
+    git clone https://github.com/CodyReichert/middleman-hamlsasscoffeeblog.git
+    cd middleman-hamlsasscoffeeblog
+    bower install
+    bundle exec middleman server
