@@ -28,6 +28,6 @@ Other
 
 Activate LiveReload
 
-  config.rb line 79:
-
+  **config.rb line 79:**
+  
     activate :livereload
