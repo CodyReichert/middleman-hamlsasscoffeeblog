@@ -4,7 +4,7 @@ middleman-hamlsasscoffeeblog
 A [Middleman](http://middlemanapp.com/) blog template scaffold  using [Haml](http://haml.info/), [Sass/Scss](http://sass-lang.com/), [Coffeescript](http://coffeescript.org/), and [Bower](http://bower.io/).
 
 
-Install as a middleman scaffold
+Install as a middleman template
 -------------------------------
 
     mkdir -p ~/.middleman/
@@ -21,3 +21,12 @@ Install for single project
     cd middleman-hamlsasscoffeeblog
     bower install
     bundle exec middleman server
+
+
+Other
+-----
+
+Activate LiveReload
+  config.rb line 79:
+
+    activate :livereload
