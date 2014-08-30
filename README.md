@@ -26,8 +26,8 @@ Install for single project
 Other
 -----
 
-Activate LiveReload
+**Activate LiveReload**
 
-  **config.rb line 79:**
+  config.rb line 79:
   
     activate :livereload
