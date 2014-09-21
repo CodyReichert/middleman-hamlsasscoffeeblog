@@ -14,6 +14,8 @@ Install as a middleman template
     bower install
     bundle exec middleman server
 
+** Note that jquery and normalize are already in bower.json as an example**
+
 Install for single project
 --------------------------
 
@@ -29,5 +31,5 @@ Other
 **Activate LiveReload**
 
   config.rb line 79:
-  
+
     activate :livereload
