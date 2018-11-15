@@ -2,10 +2,10 @@
 # the following line to use "https"
 source 'http://rubygems.org'
 
-gem "middleman", "~> 3.3.5"
-gem "middleman-blog", "~> 3.5.3"
-gem "nokogiri", ">= 1.8.2"
+gem "middleman"
+gem "middleman-blog"
+gem "nokogiri"
 gem "middleman-livereload", :github => "middleman/middleman-livereload"
 
 # For feed.xml.builder
-gem "builder", "~> 3.0"
+gem "builder"
